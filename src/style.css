@@ -1,5 +1,11 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: rgb(199, 246, 250);
+}
+
+.loboimage{
+    width: 300px;
+    display: block;
+    margin: auto;
 }
